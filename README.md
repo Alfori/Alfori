@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sultan! <br/>
+<h1>Hi, I'm Sultan Alfori! <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
