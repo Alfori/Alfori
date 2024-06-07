@@ -4,6 +4,11 @@
 
 - <b>Bid2Buy - Bidding system similar to eBay</b>
   - [Bid2Buy](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b>Arcane - Matrix based video game</b>
+  - [Arcane](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
