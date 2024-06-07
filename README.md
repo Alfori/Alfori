@@ -6,10 +6,12 @@
   - [Bid2Buy](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Arcane - Matrix based video game</b>
   - [Arcane](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>PassPair - Website that uses API to fetch information about skiing passes</b>
+  - [PassPair](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Memtrix - Memory game that utilizes a matrix to test your memory</b>
+  - [Memtrix](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>GTA Automation - Utilizes screenshots taken from the game to automate tasks</b>
+  - [GTA Automation](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
