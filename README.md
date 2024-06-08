@@ -5,9 +5,9 @@
 - <b>Bid2Buy - Bidding system similar to eBay</b>
   - [Bid2Buy](https://github.com/Alfori/BidToBuy)
 - <b>Arcane - Matrix based video game</b>
-  - [Arcane](https://github.com/Alfori)
+  - [Arcane](https://github.com/Alfori/Arcane)
 - <b>PassPair - Website that uses API to fetch information about skiing passes</b>
-  - [PassPair](https://github.com/Alfori)
+  - [PassPair](https://github.com/Alfori/PassPair)
 - <b>Memtrix - Memory game that utilizes a matrix to test your memory</b>
   - [Memtrix](https://github.com/Alfori/Memtrix)
 - <b>GTA Automation - Utilizes screenshots taken from the game to automate tasks</b>
