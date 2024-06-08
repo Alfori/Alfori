@@ -3,15 +3,15 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Bid2Buy - Bidding system similar to eBay</b>
-  - [Bid2Buy](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bid2Buy](https://github.com/Alfori/BidToBuy)
 - <b>Arcane - Matrix based video game</b>
-  - [Arcane](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Arcane](https://github.com/Alfori)
 - <b>PassPair - Website that uses API to fetch information about skiing passes</b>
-  - [PassPair](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [PassPair](https://github.com/Alfori)
 - <b>Memtrix - Memory game that utilizes a matrix to test your memory</b>
-  - [Memtrix](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Memtrix](https://github.com/Alfori/Memtrix)
 - <b>GTA Automation - Utilizes screenshots taken from the game to automate tasks</b>
-  - [GTA Automation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [GTA Automation](https://github.com/Alfori/GTAAutomation)
 
 <h2> 🤳 Connect with me:</h2>
 
