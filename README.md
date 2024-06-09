@@ -2,17 +2,17 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Bid2Buy - Bidding system similar to eBay</b>
+- <b>Bid2Buy - Bidding system similar to eBay (C++ and Makefile)</b>
   - [Bid2Buy](https://github.com/Alfori/BidToBuy)
-- <b>Arcane - Matrix based video game</b>
+- <b>Arcane - Matrix based video game (Java)</b>
   - [Arcane](https://github.com/Alfori/Arcane)
-- <b>PassPair - Website that uses API to fetch information about skiing passes</b>
+- <b>PassPair - Website that uses API to fetch information about skiing passes (HTML, CSS, Javascript)</b>
   - [PassPair](https://github.com/Alfori/PassPair)
-- <b>Memtrix - Memory game that utilizes a matrix to test your memory</b>
+- <b>Memtrix - Memory game that utilizes a matrix to test your memory (Java)</b>
   - [Memtrix](https://github.com/Alfori/Memtrix)
-- <b>GTA Automation - Utilizes screenshots taken from the game to automate tasks</b>
+- <b>GTA Automation - Utilizes screenshots taken from the game to automate tasks (Python)</b>
   - [GTA Automation](https://github.com/Alfori/GTAAutomation)
-- <b>Discord AI Autoreply</b>
+- <b>Discord AI Autoreply (Python)</b>
   - [Discord AI](https://github.com/Alfori/DiscordAIAutoreply)
 
 <h2> 🤳 Connect with me:</h2>
