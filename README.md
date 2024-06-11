@@ -11,7 +11,7 @@
 - <b>Memtrix - Memory game that utilizes a matrix to test your memory (Java)</b>
   - [Memtrix](https://github.com/Alfori/Memtrix)
 - <b>Discord Scheduled Autoreply (Python)</b>
-  - [Discord Scheduled Reply](https://github.com/Alfori/DiscordAIAutoreply)
+  - [Discord Scheduled Reply](https://github.com/Alfori/DiscordAIAutoreply)<br><br>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -20,9 +20,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<p></p>
-<p></p>
-<p></p>
 
 
 <!-- [twitter]: https://twitter.com/joshmadakor
