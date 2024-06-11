@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Bid2Buy - Bidding system similar to eBay (C++ and Makefile)</b>
+- <b>Bid2Buy - Bidding system similar to eBay (C++)</b>
   - [Bid2Buy](https://github.com/Alfori/BidToBuy)
 - <b>Arcane - Matrix based video game (Java)</b>
   - [Arcane](https://github.com/Alfori/Arcane)
