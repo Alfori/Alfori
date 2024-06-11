@@ -10,8 +10,6 @@
   - [PassPair](https://github.com/Alfori/PassPair)
 - <b>Memtrix - Memory game that utilizes a matrix to test your memory (Java)</b>
   - [Memtrix](https://github.com/Alfori/Memtrix)
-- <b>GTA Automation - Utilizes screenshots taken from the game to automate tasks (Python)</b>
-  - [GTA Automation](https://github.com/Alfori/GTAAutomation)
 - <b>Discord Scheduled Autoreply (Python)</b>
   - [Discord Scheduled Reply](https://github.com/Alfori/DiscordAIAutoreply)
 
