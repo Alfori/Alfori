@@ -12,8 +12,8 @@
   - [Memtrix](https://github.com/Alfori/Memtrix)
 - <b>GTA Automation - Utilizes screenshots taken from the game to automate tasks (Python)</b>
   - [GTA Automation](https://github.com/Alfori/GTAAutomation)
-- <b>Discord AI Autoreply (Python)</b>
-  - [Discord AI](https://github.com/Alfori/DiscordAIAutoreply)
+- <b>Discord Scheduled Autoreply (Python)</b>
+  - [Discord Scheduled Reply](https://github.com/Alfori/DiscordAIAutoreply)
 
 <h2> 🤳 Connect with me:</h2>
 
