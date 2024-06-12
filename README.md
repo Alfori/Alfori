@@ -11,7 +11,7 @@
 - <b>Memtrix - Memory game that utilizes a matrix to test your memory (Java)</b>
   - [Memtrix](https://github.com/Alfori/Memtrix)
 - <b>Discord Scheduled Autoreply (Python)</b>
-  - [Discord Scheduled Reply](https://github.com/Alfori/DiscordAIAutoreply)<br><br>
+  - [Discord Scheduled Reply](https://github.com/Alfori/DiscordAIAutoreply)
 - <b>Folder Organizer (Python)</b>
   - [Folder Organizer](https://github.com/Alfori/folderOrganizer)<br><br>
 
