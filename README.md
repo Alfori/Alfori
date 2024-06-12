@@ -12,6 +12,8 @@
   - [Memtrix](https://github.com/Alfori/Memtrix)
 - <b>Discord Scheduled Autoreply (Python)</b>
   - [Discord Scheduled Reply](https://github.com/Alfori/DiscordAIAutoreply)<br><br>
+- <b>Folder Organizer (Python)</b>
+  - [Folder Organizer](https://github.com/Alfori/folderOrganizer)<br><br>
 
 <h2> 🤳 Connect with me:</h2>
 
