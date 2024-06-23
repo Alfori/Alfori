@@ -6,7 +6,7 @@
 - <b>Bid2Buy - Bidding system similar to eBay (C++)</b>
   - [Bid2Buy](https://github.com/Alfori/BidToBuy)
 - <b>Discord Scheduled Autoreply (Python)</b>
-  - [Discord Scheduled Reply](https://github.com/Alfori/DiscordAIAutoreply)<br><br>
+  - [Discord Scheduled Reply](https://github.com/Alfori/DiscordAIAutoreply)
 - <b>Arcane - Matrix based video game (Java)</b>
   - [Arcane](https://github.com/Alfori/Arcane)
 - <b>PassPair - Website that uses API to fetch information about skiing passes (HTML, CSS, Javascript)</b>
@@ -14,7 +14,7 @@
 - <b>Memtrix - Memory game that utilizes a matrix to test your memory (Java)</b>
   - [Memtrix](https://github.com/Alfori/Memtrix)
 - <b>Folder Organizer (Python)</b>
-  - [Folder Organizer](https://github.com/Alfori/folderOrganizer)
+  - [Folder Organizer](https://github.com/Alfori/folderOrganizer)<br><br>
 
 
 <h2> 🤳 Connect with me:</h2>
